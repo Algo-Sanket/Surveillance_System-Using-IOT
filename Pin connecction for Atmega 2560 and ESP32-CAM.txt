@@ -1,0 +1,6 @@
+Connect GPIO0 to GND of ESP32 Cam
+Connect 5V of ESP32 Cam to 5V of Atmega 2560
+Connect Gnd of ESP32 Cam to Gnd of Atmega 2560
+Connect TXD of ESP32 Cam to RXD(Pin 0) of Atmega 2560
+Connect RXD of ESP32 Cam to TXD(Pin 1) of Atmega 2560
+Connect Reset of Atmega 2560 to Gnd of Atmega 2560
